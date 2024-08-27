@@ -1,0 +1,5 @@
+dependency
+    groupIdorg.seleniumhq.seleniumgroupId
+    artifactIdselenium-chrome-driverartifactId
+    version4.23.1version
+dependency
